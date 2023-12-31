@@ -1,6 +1,6 @@
 How to run and play The Cheater's Gambit:
 
-Download the files (can be done as a zip file, by cloning the repository or individually downloading files)
+Download the files (can be done as a zip file through code -> download zip, by cloning the repository, through git desktop or individually downloading files)
 -Make sure all python files are in the same directory.
 -To start the game, run main.py.
 -Select Game mode. 1: No police, 2: All police, 3: Two police.
